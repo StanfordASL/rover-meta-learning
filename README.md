@@ -4,9 +4,6 @@ This is code for [Adaptive Meta-Learning for Identification of Rover-Terrain Dyn
 
 P-ALPaCA is an alternate formulation of [ALPaCA](https://github.com/StanfordASL/ALPaCA), which is a framework for online learning that can be imbued with rich, informative priors offline to enable few-shot learning with bayesian uncertainty estimates.
 
-CAMeLiD uses ALPaCA to learn a dynamics model from online data, and pairs it with a model-based controller to create a model-based RL framework which can leverage rich physical priors for efficient learning.
-
-
 ## installation
 
 To use this codebase, first install the requirements by running the following line (ideally within a virtual environment)
