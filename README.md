@@ -4,7 +4,7 @@ This is code for [Adaptive Meta-Learning for Identification of Rover-Terrain Dyn
 
 P-ALPaCA is an alternate formulation of [ALPaCA](https://github.com/StanfordASL/ALPaCA), which is a framework for online learning that can be imbued with rich, informative priors offline to enable few-shot learning with Bayesian uncertainty estimates.
 
-## installation
+## Installation
 
 To use this codebase, first install the requirements by running the following line (ideally within a virtual environment)
 
